@@ -5,8 +5,6 @@
 
 
 
-![image](https://github.com/wyfeitian/wyfeitian/blob/gh-pages/images/QQ%E5%9B%BE%E7%89%8720210404122934.jpg)
-
 
 
 
