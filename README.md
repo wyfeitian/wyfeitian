@@ -1,8 +1,5 @@
 ### Hi there 👋
-11111
-2222
-333
-555
+
 <!--
 **wyfeitian/wyfeitian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
